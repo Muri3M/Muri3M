@@ -1,6 +1,6 @@
 ### Oi, eu sou o Murilo 👋
 
-- 🖥️ Atuando como <b>desenvolvedor font-end júnior</b> na <a href="http://finxi.com.br/">Finxi</a>
+- 🖥️ Atuando como <b>desenvolvedor font-end </b> na <a href="http://finxi.com.br/">Finxi</a>
 - 🎓 Cursando bacharelado em ciência e tecnologia - <b>UNIFESP</b>
 
 <div style="display: inline_block"><br> 
