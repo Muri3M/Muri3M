@@ -1,7 +1,6 @@
 ### Oi, eu sou o Murilo 👋
 
-- 🖥️ Atuando como <b>desenvolvedor font-end </b> na <a href="http://finxi.com.br/">Finxi</a>
-- 🎓 Cursando bacharelado em ciência e tecnologia - <b>UNIFESP</b>
+- 🖥️ Atuando como <b>desenvolvedor front-end </b> na <a href="http://f1sales.com.br">F1 Sales</a>
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/vuejs/art/a1c78b74569b70a25300925b4eacfefcc143b8f6/logo.svg">
