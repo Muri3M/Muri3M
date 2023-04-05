@@ -1,6 +1,6 @@
 ### Oi, eu sou o Murilo 👋
 
-- 🖥️ Atuando como <b>desenvolvedor front-end </b> na <a href="http://f1sales.com.br">F1 Sales</a>
+- 🖥️ Atuando como <b>desenvolvedor full-stack </b> na <a href="http://f1sales.com.br](https://www.globo.com">F1 Sales</a>
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
